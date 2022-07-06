@@ -78,3 +78,7 @@ body {
     border: 1px solid red;
     border-radius: 0px;
 }
+
+#text-align {
+    text-align: center;
+}
