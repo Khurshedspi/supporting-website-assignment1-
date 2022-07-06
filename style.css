@@ -144,12 +144,22 @@
         margin-top: 20%;
     }
     
-    #last-image {}
-    
     #flexible-div {
         display: flex;
         margin-top: 5%;
-        margin-left: 7%;
+        margin-left: 2%;
+        margin-right: 7%;
     }
     
-    .need-div {}
+    .need-donate {
+        background-color: rgb(187, 184, 187);
+        margin-left: 5%;
+    }
+    
+    #padding-tag {
+        padding-left: 5%;
+    }
+    
+    #contribute-right {
+        margin-left: 81.5%;
+    }
