@@ -82,3 +82,9 @@ body {
 #text-align {
     text-align: center;
 }
+
+#transfer-center {
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 2%;
+}
