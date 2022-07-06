@@ -96,6 +96,8 @@ body {
 
 #display-flex {
     display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .div-sizing {
@@ -117,4 +119,11 @@ body {
 
 #different-id2 {
     background-color: rgb(239, 220, 252);
+}
+
+#display-flex2 {
+    display: flex;
+    padding-top: 80px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
