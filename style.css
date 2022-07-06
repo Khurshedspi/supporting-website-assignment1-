@@ -185,3 +185,16 @@
         background-color: rgba(245, 43, 17, 0.973);
         border-color: brown;
     }
+    
+    #finishing-div {
+        background-color: black;
+        margin-top: 6%;
+        height: 200px;
+        width: 100%
+    }
+    
+    .text-color {
+        color: rgba(245, 43, 17, 0.973);
+        text-align: center;
+        padding-top: 15px;
+    }
