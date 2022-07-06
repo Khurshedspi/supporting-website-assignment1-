@@ -1,0 +1,80 @@
+#center-align {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-weight: 800px;
+}
+
+#image {
+    background-image: url(images/help.jpg);
+    background-repeat: no-repeat;
+    background-size: 1366px;
+    height: 500px;
+    margin-top: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: 30;
+    font-weight: 500;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
+}
+
+.click-donate {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.center-align {
+    text-align: center;
+    color: black;
+    font-size: 70px;
+    font-weight: 800px;
+}
+
+.donation-matter {
+    text-align: center;
+    color: grey;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.flexible {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 20%;
+    font-size: 20px;
+}
+
+.border-donation {
+    width: 50px;
+    height: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: whitesmoke;
+    padding: 10px 20px;
+    padding-top: 15px;
+}
+
+#different-div {
+    width: 50px;
+    height: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #EACCC6;
+    padding: 10px 20px;
+    padding-top: 15px;
+    color: black;
+    border: 1px solid red;
+    border-radius: 0px;
+}
